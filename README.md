@@ -1,0 +1,1 @@
+# StrategyAnalyser.Umbrella

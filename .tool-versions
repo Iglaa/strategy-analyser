@@ -1,0 +1,4 @@
+# elixir --version
+elixir 1.15.7-otp-26
+# erl -eval '{ok, Version} = file:read_file(filename:join([code:root_dir(), "releases", erlang:system_info(otp_release), "OTP_VERSION"])), io:fwrite(Version), halt().' -noshell
+erlang 26.1.2
